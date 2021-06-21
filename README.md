@@ -3,5 +3,4 @@ This is a list of useful information about urban mobility prediction. Related pa
 
 Papers | Author | Codes | Datasets | Results|
 -------|--------|-------|----------|--------|
-DeepMove: Predicting Human Mobility with Attentional
-Recurrent Networks | Yong Li | None | None | None|
+DeepMove: Predicting Human Mobility with Attentional Recurrent Networks | Yong Li | None | None | None|
