@@ -1,6 +1,6 @@
 This is a list of useful information about urban mobility prediction. Related papers, datasets and codes are included.
 
-## Next POI Recommendations
+### POI Recommendations
 Papers | Paper | Code | Time | Accuracy |
 -------|-------|------|------|----------|
 A recurrent model with spatial and temporal contexts (AAAI) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/9971)| [Code](https://github.com/yongqyu/STRNN) | 2016 | Gowalla: Rec@51 =0.1524, Rec@10=0.2714. GTD: Rec@5=0.4986, Rec@10=0.6812. |
