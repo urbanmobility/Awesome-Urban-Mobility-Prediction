@@ -19,3 +19,7 @@ Personalized Long- and Short-term Preference Learning for Next POI Recommendatio
 Where to go next: Modeling long-and short-term user preferences for point-ofinterest recommendation.(LSTPM) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5353)| [Code](https://github.com/NLPWM-WHU/LSTPM) | 2020 | AAAI | Foursquare (NY): Rec@5=0.3372, Rec@10=0.4091.<br>Gowalla: Rec@5=0.2021, Rec@10=0.2510. |
 An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins.(iMTL) | [Paper](https://www.ijcai.org/Proceedings/2020/0491.pdf)| None | 2020 | IJCAI | Foursquare (CLT): Rec@10=0.0534, Map4@10=0.0238.<br>Foursquare (CAL): Rec@10=0.0691, Map@10=0.0443.<br>Foursquare (PHO): Rec@10=0.0769, Map@10=0.0352. |
 A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data.(CatDM) | [Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380202)| [Code](https://github.com/fqyuu/CatDM) | 2020 | WWW | Foursquare (NYC): Rec@5=0.2407, Rec@10=0.3113.<br>Foursquare (TKY): Rec@5=0.2148, Rec@10=0.2739. |
+An attentional recurrent neural network for personalized next location recommendation.(ARNN) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5337)| [Code](https://github.com/fqyuu/CatDM) | 2020 | WWW | Foursquare (NYC): Rec@5=0.2407, Rec@10=0.3113.<br>Foursquare (TKY): Rec@5=0.2148, Rec@10=0.2739. |
+
+
+
