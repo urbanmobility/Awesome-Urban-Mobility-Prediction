@@ -2,10 +2,11 @@ This is a list of useful information about urban mobility prediction. Related pa
 
 ### Dataset
 1. [Foursquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset?authuser=0)
-2. [Foursquare](https://foursquare.com/)
-3. [Foursquare](https://foursquare.com/)
-4. [Foursquare](https://foursquare.com/)
-5. [Foursquare](https://foursquare.com/)
+2. [Gowalla](https://paperswithcode.com/dataset/gowalla)
+3. [Yelp](https://www.yelp.com/dataset)
+4. [Brightkite](https://www.cs.cornell.edu/~arb/data/spatial-Brightkite/)
+5. [Weeplaces](https://www.yongliu.org/datasets/)
+6. [Instagram](https://data.world/datasets/instagram)
 
 ### POI Recommendations
 Papers | Paper | Code | Time | Accepted | Accuracy |
