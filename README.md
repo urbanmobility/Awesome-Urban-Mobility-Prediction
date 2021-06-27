@@ -23,8 +23,9 @@ An attentional recurrent neural network for personalized next location recommend
 Exploiting geographical-temporal awareness attention for next point-of-interest recommendation.(GT-HAN) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300680)| None | 2020 | Neurocomputing | Foursquare: AUC8=0.9661, acc@5: 0.13-0.15, acc@10: 0.17-0.19, acc@20: 0.23-0.25 (depending on latent dimensionality). |
 Time-Aware Location Prediction by Convolutional Area-of-Interest Modeling and Memory-Augmented Attentive LSTM.(t-LocPred) | [Paper](https://ieeexplore.ieee.org/abstract/document/9128016)| None | 2020 | TKDE | Gowalla: MRR5=0.247 (C=6, all),<br>Weeplaces: MRR=0.277 (C=6, all),<br>Brightkite: MRR=0.388 (C=4, all). |
 Content-Aware Successive Point-of-Interest Recommendation.(CAPRE) | [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.12)| None | 2020 | SDM | Foursquare: Rec@5=0.1724, Rec@10=0.2084<br>Instagram: Rec@5=0.2934, Rec@10=0.3588. |
-Geography-Aware Sequential Location Recommendation.(GeoSAN) | [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403252)| [Code](https://github.com/libertyeagle/GeoSAN) | 2020 | KDD | Foursquare: Acc@5=0.3735, Acc@10=0.4867.<br>Gowalla: Acc@5=0.4951, Acc@10=0.6028.<br>Brightkite: Acc@5=0.5258, Acc@10=0.6425.|
-
+Geography-Aware Sequential Location Recommendation.(GeoSAN) | [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403252)| [Code](https://github.com/libertyeagle/GeoSAN) | 2020 | KDD | Foursquare: Acc@5=0.3735, Acc@10=0.4867.<br>Gowalla: Acc@5=0.4951, Acc@10=0.6028.<br>Brightkite: Acc@5=0.5258, Acc@10=0.6425. |
+Modeling hierarchical category transition for next POI recommendation with uncertain check-ins.(HCT) | [Paper](sciencedirect.com/science/article/abs/pii/S0020025519311144)| None | 2020 | Information Sciences, Elsevier | Foursquare(SIN): Prec@5=0.613 Rec@5=0.0403<br>Foursquare(NYC): Prec@5=0.0585, Rec@5=0.0352<br>Foursquare(LA): Prec@5=0.0653, Rec@5=0.0305. |
+HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation.(HME) | [Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401049)| None | 2020 | SIGIR |Foursquare (NYC): Rec@5=0.0962, Rec@10=0.1371.<br>Foursquare (TKY): Rec@5=0.1527, Rec@10=0.2172.<br>Gowalla (Houston): Rec@5=0.1533, Rec@10=0.2318. |
 
 
 
