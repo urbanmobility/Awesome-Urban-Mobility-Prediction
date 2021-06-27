@@ -1,5 +1,12 @@
 This is a list of useful information about urban mobility prediction. Related papers, datasets and codes are included.
 
+### Dataset
+1. [Foursquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset?authuser=0)
+2. [Foursquare](https://foursquare.com/)
+3. [Foursquare](https://foursquare.com/)
+4. [Foursquare](https://foursquare.com/)
+5. [Foursquare](https://foursquare.com/)
+
 ### POI Recommendations
 Papers | Paper | Code | Time | Accepted | Accuracy |
 -------|-------|------|------|----------|----------|
