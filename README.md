@@ -11,7 +11,7 @@ This is a list of useful information about urban mobility prediction. Related pa
 ### POI Recommendations
 Papers | Authors | Code | Year | Venue | Performance |
 -------|-------|------|------|----------|----------|
-A recurrent model with spatial and temporal contexts.(ST-RNN)([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/9971)) | Qiang Liu(Chinese Academy of Sciences) | [Code](https://github.com/yongqyu/STRNN) | 2016 | AAAI | **Gowalla:** Rec@5 =0.1524, Rec@10=0.2714.<br>**GTD:** Rec@5=0.4986, Rec@10=0.6812. |
+A recurrent model with spatial and temporal contexts.(ST-RNN)([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/9971)) | Qiang Liu(CAS), Shu Wu, Liang Wang, Tieniu Tan | [Code](https://github.com/yongqyu/STRNN) | 2016 | AAAI | **Gowalla:** Rec@5 =0.1524, Rec@10=0.2714.<br>**GTD:** Rec@5=0.4986, Rec@10=0.6812. |
 Geo-teaser: Geo-temporal sequential embedding rank for point-of-interest recommendation.(Geo-teaser) | [Paper](https://dl.acm.org/doi/abs/10.1145/3041021.3054138)| [Code](https://github.com/JasonLiu-THU/geo_teaser) | 2017 | WWW | Foursquare: Prec@5=0.13, Prec@10=0.1, Rec@5=0.15, Rec@10=0.2<br>Gowalla: Prec@5=0.16, Prec@10=0.13, Rec@5=0.07, Rec@10=0.1 |
 Next point-of-interest recommendation with temporal and multi-level context attention.(TMCA) | [Paper](https://ieeexplore.ieee.org/abstract/document/8594953)| [Code](https://github.com/zhenql/TMCA) | 2018 | ICDM | Gowalla: Rec@5=0.21926, Rec@10=0.27725.<br>Foursquare: Rec@5=0.02870, Rec@10=0.04809. |
 HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction.(HST-LSTM) | [Paper](https://www.ijcai.org/Proceedings/2018/0324.pdf)| None | 2018 | IJCAI | Baidu Map: Acc@10=0.4847, Acc@20=0.5657. |
