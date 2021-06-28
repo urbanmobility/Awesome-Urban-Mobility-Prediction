@@ -2,9 +2,9 @@ This is a list of useful information about urban mobility prediction. Related pa
 
 ### Dataset
 1. [Foursquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset?authuser=0)
-2. [Gowalla](https://paperswithcode.com/dataset/gowalla)
+2. [Gowalla](https://snap.stanford.edu/data/loc-gowalla.html)
 3. [Yelp](https://www.yelp.com/dataset)
-4. [Brightkite](https://www.cs.cornell.edu/~arb/data/spatial-Brightkite/)
+4. [Brightkite](https://snap.stanford.edu/data/loc-Brightkite.html)
 5. [Weeplaces](https://www.yongliu.org/datasets/)
 6. [Instagram](https://data.world/datasets/instagram)
 
